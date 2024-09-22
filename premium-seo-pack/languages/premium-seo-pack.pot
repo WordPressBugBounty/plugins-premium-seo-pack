@@ -1,0 +1,875 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Premium SEO Pack\n"
+"POT-Creation-Date: 2024-07-20 16:30+0300\n"
+"PO-Revision-Date: 2021-01-28 13:34+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: classes/Error.php:19
+msgid ""
+"For Post Plugins to work, the PHP version has to be equal or greater than "
+"5.1"
+msgstr ""
+
+#: classes/Tools.php:161
+msgid "Format"
+msgstr ""
+
+#: classes/Tools.php:169 classes/Tools.php:185
+msgid "Category"
+msgstr ""
+
+#: classes/Tools.php:177 classes/Tools.php:193
+msgid "Tag"
+msgstr ""
+
+#: classes/Tools.php:201
+msgid "Shipping Option"
+msgstr ""
+
+#: classes/Tools.php:209
+msgid "Author at"
+msgstr ""
+
+#: classes/Tools.php:241
+msgid "You searched for"
+msgstr ""
+
+#: classes/Tools.php:257
+msgid "Page not found"
+msgstr ""
+
+#: classes/Tools.php:449
+#, php-format
+msgid "You can't use this plugin with your current subscription. %s"
+msgstr ""
+
+#: classes/Tools.php:715
+msgid "Settings"
+msgstr ""
+
+#: controllers/Admin.php:54
+msgid " Settings"
+msgstr ""
+
+#: controllers/Admin.php:113
+msgid "Custom SEO"
+msgstr ""
+
+#: controllers/Login.php:79
+#, php-format
+msgid ""
+"We found your email, so it means you already have a Squirrly.co account. "
+"Please login with your Squirrly Email. If you forgot your password click "
+"%s here %s"
+msgstr ""
+
+#: controllers/Login.php:83
+msgid ""
+"Error: Couldn't connect to host :( . Please contact your site's webhost "
+"(or webmaster) and request them to add http://api.squirrly.co/ to their  "
+"IP whitelist."
+msgstr ""
+
+#: controllers/Login.php:86
+#, php-format
+msgid ""
+"Could not send your information to squirrly. Please register %s manually "
+"%s."
+msgstr ""
+
+#: controllers/Login.php:131
+msgid "Wrong email or password!"
+msgstr ""
+
+#: controllers/Login.php:134
+msgid "You can use this account only for the URL you registered first!"
+msgstr ""
+
+#: controllers/Login.php:139
+msgid "An error occurred."
+msgstr ""
+
+#: controllers/Login.php:142
+msgid "Both fields are required."
+msgstr ""
+
+#: controllers/Settings.php:47
+msgid "All the Plugin settings were imported successfully!"
+msgstr ""
+
+#: controllers/Settings.php:58
+#, php-format
+msgid "%s SEO records were imported successfully!"
+msgstr ""
+
+#: index.php:47
+#, php-format
+msgid "For %s to work, the PHP version has to be equal or greater then 5.1"
+msgstr ""
+
+#: models/Settings.php:59
+msgid "The code for Google Webmaster Tool is incorrect."
+msgstr ""
+
+#: models/Settings.php:89
+msgid "The code for Google Analytics is incorrect."
+msgstr ""
+
+#: models/Settings.php:134
+msgid "The code for Facebook is incorrect."
+msgstr ""
+
+#: models/Settings.php:165
+msgid "The code for Pinterest is incorrect."
+msgstr ""
+
+#: models/Settings.php:194
+msgid "The code for Bing is incorrect."
+msgstr ""
+
+#: models/domain/Patterns.php:227
+msgid "Page"
+msgstr ""
+
+#: models/domain/Patterns.php:227
+msgid "of"
+msgstr ""
+
+#: view/FrontMenu.php:28
+msgid "META"
+msgstr ""
+
+#: view/FrontMenu.php:33
+msgid "FACEBOOK"
+msgstr ""
+
+#: view/FrontMenu.php:39
+msgid "TWITTER"
+msgstr ""
+
+#: view/FrontMenu.php:44
+msgid "ADVANCED"
+msgstr ""
+
+#: view/FrontMenu.php:52
+msgid "Optimize this page for SEO"
+msgstr ""
+
+#: view/FrontMenu.php:57
+msgid "Save"
+msgstr ""
+
+#: view/FrontMenu.php:64 view/FrontMenu.php:384 view/FrontMenu.php:401
+#: view/Settings.php:201 view/Settings.php:215 view/Settings.php:232
+msgid "Yes"
+msgstr ""
+
+#: view/FrontMenu.php:66 view/FrontMenu.php:388 view/FrontMenu.php:405
+#: view/Settings.php:203 view/Settings.php:217 view/Settings.php:234
+msgid "No"
+msgstr ""
+
+#: view/FrontMenu.php:76
+msgid "Your SEO for this page is awesome."
+msgstr ""
+
+#: view/FrontMenu.php:87
+msgid "SEO Title"
+msgstr ""
+
+#: view/FrontMenu.php:92 view/FrontMenu.php:146
+msgid "Pattern: "
+msgstr ""
+
+#: view/FrontMenu.php:98
+msgid "Current Title"
+msgstr ""
+
+#: view/FrontMenu.php:104
+msgid "Default Title"
+msgstr ""
+
+#: view/FrontMenu.php:114 view/Settings.php:169
+msgid "Title"
+msgstr ""
+
+#: view/FrontMenu.php:124 view/FrontMenu.php:175
+msgid "Pattern"
+msgstr ""
+
+#: view/FrontMenu.php:141
+msgid "META Description"
+msgstr ""
+
+#: view/FrontMenu.php:151
+msgid "Current Description"
+msgstr ""
+
+#: view/FrontMenu.php:157
+msgid "Default Description"
+msgstr ""
+
+#: view/FrontMenu.php:166 view/Settings.php:175
+msgid "Description"
+msgstr ""
+
+#: view/FrontMenu.php:191
+msgid "Add keywords"
+msgstr ""
+
+#: view/FrontMenu.php:197
+msgid "+ Add keyword"
+msgstr ""
+
+#: view/FrontMenu.php:205
+msgid "Canonical link"
+msgstr ""
+
+#: view/FrontMenu.php:210
+msgid "Found: "
+msgstr ""
+
+#: view/FrontMenu.php:216
+msgid "Current"
+msgstr ""
+
+#: view/FrontMenu.php:222
+msgid "Default Link"
+msgstr ""
+
+#: view/FrontMenu.php:240
+msgid "Media Image"
+msgstr ""
+
+#: view/FrontMenu.php:246 view/FrontMenu.php:338
+msgid "Upload"
+msgstr ""
+
+#: view/FrontMenu.php:257
+msgid "OG Title"
+msgstr ""
+
+#: view/FrontMenu.php:268
+msgid "OG Description"
+msgstr ""
+
+#: view/FrontMenu.php:281
+msgid "Author Link"
+msgstr ""
+
+#: view/FrontMenu.php:288
+msgid "if there are more authors, separate their facebook links with commas"
+msgstr ""
+
+#: view/FrontMenu.php:294
+msgid "Page type"
+msgstr ""
+
+#: view/FrontMenu.php:300
+msgid "Website"
+msgstr ""
+
+#: view/FrontMenu.php:303
+msgid "Author"
+msgstr ""
+
+#: view/FrontMenu.php:306
+msgid "Article"
+msgstr ""
+
+#: view/FrontMenu.php:309
+msgid "Book"
+msgstr ""
+
+#: view/FrontMenu.php:312
+msgid "Music"
+msgstr ""
+
+#: view/FrontMenu.php:315
+msgid "Product"
+msgstr ""
+
+#: view/FrontMenu.php:318
+msgid "Video"
+msgstr ""
+
+#: view/FrontMenu.php:334
+msgid "Twitter Image"
+msgstr ""
+
+#: view/FrontMenu.php:348
+msgid "Twitter Card Title"
+msgstr ""
+
+#: view/FrontMenu.php:359
+msgid "Twitter Card Description"
+msgstr ""
+
+#: view/FrontMenu.php:377
+msgid "Let Google Index This Page"
+msgstr ""
+
+#: view/FrontMenu.php:394
+msgid "Pass Link Juice to This Page"
+msgstr ""
+
+#: view/FrontMenu.php:467
+msgid "Info"
+msgstr ""
+
+#: view/FrontMenu.php:468
+msgid "post type"
+msgstr ""
+
+#: view/FrontMenu.php:491
+msgid "No data for this URL."
+msgstr ""
+
+#: view/Login.php:16
+msgid "Connect with Squirrly.co Server"
+msgstr ""
+
+#: view/Login.php:26
+msgid "Email:"
+msgstr ""
+
+#: view/Login.php:31
+msgid "Password:"
+msgstr ""
+
+#: view/Login.php:37
+msgid "Login"
+msgstr ""
+
+#: view/Login.php:40
+msgid "Register"
+msgstr ""
+
+#: view/Login.php:40
+msgid "Register to Squirrly.co"
+msgstr ""
+
+#: view/Login.php:42
+msgid "Lost password?"
+msgstr ""
+
+#: view/Login.php:42
+msgid "Lost password"
+msgstr ""
+
+#: view/Login.php:48
+msgid "Enter your email"
+msgstr ""
+
+#: view/Login.php:55
+msgid "Your Email:"
+msgstr ""
+
+#: view/Login.php:60
+msgid "Sign Up"
+msgstr ""
+
+#: view/Login.php:61
+msgid "I already have an account"
+msgstr ""
+
+#: view/Login.php:64
+msgid ""
+"This email it's just to connect you to Squirrly.co. You will not get "
+"spammy emails from us."
+msgstr ""
+
+#: view/Login.php:76
+msgid "Congratulations! You're connected"
+msgstr ""
+
+#: view/Login.php:82
+msgid "Start using Premium SEO Pack"
+msgstr ""
+
+#: view/Login.php:92
+msgid "The email address is invalid!"
+msgstr ""
+
+#: view/Login.php:93
+msgid "Click on Sign Up button and try again ..."
+msgstr ""
+
+#: view/Login.php:94
+msgid "An error occured while logging in!"
+msgstr ""
+
+#: view/Login.php:95
+msgid "Connecting ..."
+msgstr ""
+
+#: view/Settings.php:21
+msgid "SEO Settings page"
+msgstr ""
+
+#: view/Settings.php:25
+msgid "SEO Settings"
+msgstr ""
+
+#: view/Settings.php:26
+msgid "Socials Settings"
+msgstr ""
+
+#: view/Settings.php:27
+msgid "Connections and Tracking"
+msgstr ""
+
+#: view/Settings.php:28
+msgid "Structured Data"
+msgstr ""
+
+#: view/Settings.php:29 view/Settings.php:929
+msgid "Import SEO"
+msgstr ""
+
+#: view/Settings.php:39
+msgid "Enable the SEO Options?"
+msgstr ""
+
+#: view/Settings.php:40
+msgid ""
+"Using Premium SEO Pack, you can easily customize your website and optimize "
+"it ON THE GO!"
+msgstr ""
+
+#: view/Settings.php:46
+msgid "What do you want the SEO Pack to do?"
+msgstr ""
+
+#: view/Settings.php:56
+msgid "Customize Title Meta"
+msgstr ""
+
+#: view/Settings.php:72
+msgid "Customize Description Meta"
+msgstr ""
+
+#: view/Settings.php:87
+msgid "Customize Keywords Meta"
+msgstr ""
+
+#: view/Settings.php:100
+msgid "Customize Canonical Link Meta"
+msgstr ""
+
+#: view/Settings.php:115
+msgid "Customize Previous and Next Page Meta"
+msgstr ""
+
+#: view/Settings.php:130
+msgid "Set the custom patterns for each post type"
+msgstr ""
+
+#: view/Settings.php:138
+msgid "Add a post type from your Wordpress website"
+msgstr ""
+
+#: view/Settings.php:141 view/Settings.php:158
+msgid "Add Post Type"
+msgstr ""
+
+#: view/Settings.php:181
+msgid "Separator"
+msgstr ""
+
+#: view/Settings.php:196
+msgid "Let Google Index it"
+msgstr ""
+
+#: view/Settings.php:210
+msgid "Pass Link Juice"
+msgstr ""
+
+#: view/Settings.php:224
+msgid "Do SEO"
+msgstr ""
+
+#: view/Settings.php:328
+msgid "Save SEO"
+msgstr ""
+
+#: view/Settings.php:337 view/Settings.php:606 view/Settings.php:726
+#: view/Settings.php:869 view/Settings.php:983
+msgid "We Need Your Support"
+msgstr ""
+
+#: view/Settings.php:344 view/Settings.php:613 view/Settings.php:733
+#: view/Settings.php:876 view/Settings.php:990
+#, php-format
+msgid "Rate us if you like %sPremium SEO Pack"
+msgstr ""
+
+#: view/Settings.php:349 view/Settings.php:618 view/Settings.php:738
+#: view/Settings.php:881 view/Settings.php:995
+msgid "I Like This Plugin"
+msgstr ""
+
+#: view/Settings.php:352 view/Settings.php:621 view/Settings.php:741
+#: view/Settings.php:884 view/Settings.php:998
+msgid "Translate The Plugin"
+msgstr ""
+
+#: view/Settings.php:360
+msgid "Recommended Plugins"
+msgstr ""
+
+#: view/Settings.php:415
+msgid "Open Graph Option"
+msgstr ""
+
+#: view/Settings.php:416
+msgid "You can enable the Open Graph for your post types"
+msgstr ""
+
+#: view/Settings.php:420
+msgid "Enable the Open Graph?"
+msgstr ""
+
+#: view/Settings.php:434
+msgid "Enable Open Graph Metas"
+msgstr ""
+
+#: view/Settings.php:440
+msgid "Facebook App ID"
+msgstr ""
+
+#: view/Settings.php:448 view/Settings.php:455
+msgid "Facebook Admin"
+msgstr ""
+
+#: view/Settings.php:462 view/Settings.php:463
+msgid "Add a Facebook Admin ID"
+msgstr ""
+
+#: view/Settings.php:475
+msgid "Twitter Card Option"
+msgstr ""
+
+#: view/Settings.php:476
+msgid "You can enable the Twitter card for your post types"
+msgstr ""
+
+#: view/Settings.php:480
+msgid "Enable the Twitter Card?"
+msgstr ""
+
+#: view/Settings.php:493
+msgid "Enable Twitter Card Metas"
+msgstr ""
+
+#: view/Settings.php:497
+msgid "The default card type to use:"
+msgstr ""
+
+#: view/Settings.php:511
+msgid "Pinterest Settings"
+msgstr ""
+
+#: view/Settings.php:512
+msgid ""
+"Pinterest uses Open Graph metadata just like Facebook, so be sure to keep "
+"the Open Graph checkbox on the Facebook tab checked if you want to "
+"optimize your site for Pinterest."
+msgstr ""
+
+#: view/Settings.php:513
+msgid ""
+"If you have already confirmed your website with Pinterest, you can skip "
+"the step below."
+msgstr ""
+
+#: view/Settings.php:518
+msgid "Confirm Your Website on Pinterest"
+msgstr ""
+
+#: view/Settings.php:522
+msgid "Pinterest confirmation code"
+msgstr ""
+
+#: view/Settings.php:532
+#, php-format
+msgid "Read: %sHow to confirm a website on Pinterest%s"
+msgstr ""
+
+#: view/Settings.php:534
+#, php-format
+msgid "Also Read: %sRich Pins Validator%s"
+msgstr ""
+
+#: view/Settings.php:542
+msgid "Social Media Accounts"
+msgstr ""
+
+#: view/Settings.php:543
+msgid ""
+"Add your Social Media accounts to include them into Json-LD Meta, Facebook "
+"Publisher Meta, Google Publisher Meta, Twitter Card and more."
+msgstr ""
+
+#: view/Settings.php:550
+msgid "Facebook URL"
+msgstr ""
+
+#: view/Settings.php:556
+msgid "Twitter URL"
+msgstr ""
+
+#: view/Settings.php:562
+msgid "Instagram URL"
+msgstr ""
+
+#: view/Settings.php:568
+msgid "LinkedIn URL"
+msgstr ""
+
+#: view/Settings.php:574
+msgid "MySpace URL"
+msgstr ""
+
+#: view/Settings.php:580
+msgid "Pinterest URL"
+msgstr ""
+
+#: view/Settings.php:586
+msgid "Youtube URL"
+msgstr ""
+
+#: view/Settings.php:598 view/Settings.php:718
+msgid "Save Settings"
+msgstr ""
+
+#: view/Settings.php:653
+msgid "Connections"
+msgstr ""
+
+#: view/Settings.php:654
+msgid ""
+"Add verification codes for Google Webmaster Tool, Bing Webmaster Tool, "
+"Alexa and Pinterest"
+msgstr ""
+
+#: view/Settings.php:661
+msgid "Google Webmaster Code"
+msgstr ""
+
+#: view/Settings.php:667
+msgid "Bing Webmaster Code"
+msgstr ""
+
+#: view/Settings.php:673
+msgid "Pinterest Code"
+msgstr ""
+
+#: view/Settings.php:679
+msgid "Alexa Code"
+msgstr ""
+
+#: view/Settings.php:691
+msgid "Tracking Options"
+msgstr ""
+
+#: view/Settings.php:692
+msgid ""
+"Add Google Analytics and Facebook Pixel Tracking Code and start tracking "
+"your visits and sales"
+msgstr ""
+
+#: view/Settings.php:693
+msgid ""
+"Google Analytics and Facebook Pixel work with the last version of "
+"Woocommerce and loads on all your pages with the required tracking options"
+msgstr ""
+
+#: view/Settings.php:700
+msgid "Google Analytics Code"
+msgstr ""
+
+#: view/Settings.php:706
+msgid "Facebook Pixel Code"
+msgstr ""
+
+#: view/Settings.php:773
+msgid "JSON-LD for Semantic SEO"
+msgstr ""
+
+#: view/Settings.php:774
+msgid ""
+"Premium SEO Pack will automatically add the JSON-LD Structured Data in "
+"your site."
+msgstr ""
+
+#: view/Settings.php:775
+#, php-format
+msgid "%sJSON-LD's Big Day at Google%s"
+msgstr ""
+
+#: view/Settings.php:776
+#, php-format
+msgid "%sGoogle Testing Tool%s"
+msgstr ""
+
+#: view/Settings.php:777
+#, php-format
+msgid "%sSpecify your social profiles to Google%s"
+msgstr ""
+
+#: view/Settings.php:795
+msgid "Enable the Json-LD Option"
+msgstr ""
+
+#: view/Settings.php:806
+msgid ""
+"Clear the Json-LD from other plugins and theme to avoid duplicate schemas."
+msgstr ""
+
+#: view/Settings.php:811
+msgid "Your site type:"
+msgstr ""
+
+#: view/Settings.php:813
+msgid "Organization"
+msgstr ""
+
+#: view/Settings.php:814
+msgid "Personal"
+msgstr ""
+
+#: view/Settings.php:821
+msgid "Your Organization Name:"
+msgstr ""
+
+#: view/Settings.php:822
+msgid "Your Name:"
+msgstr ""
+
+#: view/Settings.php:826
+msgid "Job Title:"
+msgstr ""
+
+#: view/Settings.php:830
+msgid "Logo Url:"
+msgstr ""
+
+#: view/Settings.php:831
+msgid "Image Url:"
+msgstr ""
+
+#: view/Settings.php:832
+msgid "Select Image"
+msgstr ""
+
+#: view/Settings.php:835
+msgid "Contact Phone:"
+msgstr ""
+
+#: view/Settings.php:838
+msgid "eg. +10123456789"
+msgstr ""
+
+#: view/Settings.php:844
+msgid "Short Description:"
+msgstr ""
+
+#: view/Settings.php:848
+msgid ""
+"After you save the Json-LD data, don't forget to enter your Social Media "
+"URLs"
+msgstr ""
+
+#: view/Settings.php:852
+msgid "How will the search results look once google grab your data."
+msgstr ""
+
+#: view/Settings.php:861
+msgid "Save Json-LD"
+msgstr ""
+
+#: view/Settings.php:910
+msgid "Import SEO from other plugins"
+msgstr ""
+
+#: view/Settings.php:911
+msgid ""
+"If you had a previous SEO plugin and you want to import all the seo from "
+"it please select the plugin from the list and click Import SEO"
+msgstr ""
+
+#: view/Settings.php:917
+msgid "Choose a plugin and import all the SEO from it."
+msgstr ""
+
+#: view/Settings.php:935
+msgid "Choose a plugin and import the Social Settings from it."
+msgstr ""
+
+#: view/Settings.php:947
+msgid "Import Settings"
+msgstr ""
+
+#: view/Settings.php:953
+msgid ""
+"Note! If you import the SEO from other plugins, you may lose the SEO you "
+"saved with this plugin."
+msgstr ""
+
+#: view/Settings.php:965
+msgid "Click to reset all the saved setting to default."
+msgstr ""
+
+#: view/Settings.php:969
+msgid "Are you sure you want to remove all the saved settings?"
+msgstr ""
+
+#: view/Settings.php:969
+msgid "Reset Settings"
+msgstr ""
+
+#: view/Settings.php:975
+msgid ""
+"Note! Make sure you backup your data first in case you change your mind."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Premium SEO Pack"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/premium-seo-pack/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Premium SEO Pack helps you increase the SEO value for all your pages, "
+"decide how you want them to look like on search engine results, and let's "
+"not forget about social media."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WP SEO - Calin Vingan"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/calinvingan"
+msgstr ""

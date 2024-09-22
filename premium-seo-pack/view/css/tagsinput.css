@@ -1,0 +1,118 @@
+/* ================ Tags ================= */
+#psp_settings_body #psp_tags div.psp_tag {
+    color: #000;
+}
+
+#psp_settings_body #psp_tags div.psp_tag_container {
+    display: inline-block;
+    color: #000;
+    background: #DBE3F7 !important;
+    width: auto;
+
+    border-radius: 3px 3px 3px 3px;
+    -moz-border-radius: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    border: 0 solid #000000;
+
+    margin: 2px 4px 2px 0;
+    padding: 2px 15px 2px 5px;
+}
+
+#psp_settings_body #psp_tags div.psp_tag_container > i {
+    font-family: FontAwesome, sans-serif !important;
+    color: lightcoral;
+    left: 7px;
+    font-size: 12px;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    float: right;
+}
+
+
+#psp_settings_body #psp_tags .psp_tag_input * {
+    background-color: transparent;
+    border: none !important;
+}
+
+#psp_settings_body #psp_tags .psp_tag_input input[type=button] {
+    background: rgb(234, 234, 234) !important;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+
+    width: 30px !important;
+    height: 30px !important;
+    line-height: 30px;
+
+    color: #333333;
+}
+
+#psp_settings_body #psp_tags .psp_tag_input input[type=text] {
+    background: #f1f1f1;
+    border: 0;
+    margin: 2px;
+}
+
+#psp_settings_body #psp_tags div.psp_tag_container.bad {
+    border: 2px solid red;
+    background: rgba(240,230,0,0.9) !important;
+}
+
+#psp_settings_body #psp_tags div.psp_tag_container.good {
+    border: 2px solid green;
+    background: rgb(100,230,100) !important;
+
+}
+#psp_settings_body #psp_tags .bootstrap-tagsinput {
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    padding: 4px 6px;
+    color: #555;
+    vertical-align: middle;
+    width: 97%;
+    line-height: 22px;
+    cursor: text;
+}
+#psp_settings_body #psp_tags .bootstrap-tagsinput input {
+    border: none;
+    box-shadow: none;
+    outline: none;
+    background-color: transparent;
+    padding: 0 6px;
+    margin: 0;
+    width: auto;
+    max-width: inherit;
+}
+#psp_settings_body #psp_tags .bootstrap-tagsinput.form-control input::-moz-placeholder {
+    color: #777;
+    opacity: 1;
+}
+#psp_settings_body #psp_tags .bootstrap-tagsinput.form-control input:-ms-input-placeholder {
+    color: #777;
+}
+#psp_settings_body #psp_tags .bootstrap-tagsinput.form-control input::-webkit-input-placeholder {
+    color: #777;
+}
+#psp_settings_body #psp_tags .bootstrap-tagsinput input:focus {
+    border: none;
+    box-shadow: none;
+}
+#psp_settings_body #psp_tags .bootstrap-tagsinput .tag {
+    margin: 2px 0;
+    display: inline-block;
+    color: white;
+    background-color: darkcyan;
+    padding: 2px 5px;
+}
+#psp_settings_body #psp_tags .bootstrap-tagsinput .tag [data-role="remove"] {
+    margin-left: 8px;
+    cursor: pointer;
+}
+#psp_settings_body #psp_tags .bootstrap-tagsinput .tag [data-role="remove"]:after {
+    content: "x";
+    padding: 0px 2px;
+}

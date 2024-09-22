@@ -1,0 +1,44 @@
+{
+  "blocks": {
+    "block": [
+      {
+        "name": "PSP_Controllers_Settings",
+        "actions": {
+          "action": [
+            "psp_resetsettings",
+            "psp_savesettings",
+            "psp_savesettings_seo",
+            "psp_savesettings_social",
+            "psp_savesettings_tracking",
+            "psp_savesettings_jsonld",
+            "psp_savesettings_adminbar",
+            "psp_backup",
+            "psp_restore",
+            "psp_importsettings",
+            "psp_importseo"
+          ]
+        },
+        "admin": "1",
+        "active": "1"
+      },
+      {
+        "name": "PSP_Controllers_Admin",
+        "actions": { "action": "psp_getfrontmenu" },
+        "admin": "1",
+        "active": "1"
+      },
+      {
+        "name": "PSP_Controllers_Login",
+        "actions": {
+          "action": [
+            "psp_login",
+            "psp_register",
+            "psp_reset"
+          ]
+        },
+        "admin": "1",
+        "active": "1"
+      }
+    ]
+  }
+}
