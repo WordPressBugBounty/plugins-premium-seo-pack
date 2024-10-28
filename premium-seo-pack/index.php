@@ -1,12 +1,4 @@
 <?php
-/**
- * Index Page
- *
- * @package Premium SEO Pack
- */
-
-defined( 'ABSPATH' ) || die( 'Cheatin\' uh?' );
-
 /*
   Copyright (c) 2013 - 2024, Squirrly.
   License: GPL2+
@@ -16,11 +8,14 @@ defined( 'ABSPATH' ) || die( 'Cheatin\' uh?' );
   Plugin URI: https://wordpress.org/plugins/premium-seo-pack/
   Author: WP SEO - Calin Vingan
   Description: Premium SEO Pack helps you increase the SEO value for all your pages, decide how you want them to look like on search engine results, and let's not forget about social media.
-  Version: 1.6.001
+  Version: 1.6.002
   Author URI: https://profiles.wordpress.org/calinvingan
  */
+
+defined( 'ABSPATH' ) || die( 'Cheatin\' uh?' );
+
 if (!defined('QSS_VERSION')) {
-    define('PSP_VERSION', '1.6.001');
+    define('PSP_VERSION', '1.6.002');
 
     /* Call config files */
     require(dirname(__FILE__) . '/config/config.php');

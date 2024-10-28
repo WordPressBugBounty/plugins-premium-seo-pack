@@ -181,7 +181,7 @@ class PSP_Controllers_Settings extends PSP_Classes_FrontController {
 			case 'psp_savesettings_adminbar':
 				$json = array();
 				if ( PSP_Classes_Tools::getIsset( 'psp_hash' ) ) {
-					$psp_hash = PSP_Classes_Tools::getValue( 'psp_hash' );
+					$psp_hash = preg_replace('/[^a-zA-Z0-9]/', '', PSP_Classes_Tools::getValue( 'psp_hash' ));
 					$url      = PSP_Classes_Tools::getValue( 'psp_url' );
 
 					$qss        = PSP_Classes_ObjController::getDomain( 'PSP_Models_Domain_Qss' );

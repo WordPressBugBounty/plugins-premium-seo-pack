@@ -3,7 +3,7 @@ Contributors: calinvingan
 Tags: seo plugin,woocommerce seo,meta,google,google sitemaps
 Requires at least: 4.6
 Tested up to: 6.6
-Stable tag: 1.6.001
+Stable tag: 1.6.002
 Donate link: https://plugin.squirrly.co
 Requires PHP: 7.0
 License: GPLv2 or later
@@ -55,6 +55,9 @@ For more SEO features we recommend: <a href="https://WordPress.org/plugins/squir
 7. Customize the patterns for each Post Type in Premium SEO Pack
 
 == Changelog ==
+= 1.6.002 =
+* Update plugin security
+
 = 1.6.001 =
 * Compatibility with WordPress 6.6 & PHP 8.3
 * Update the plugin security and functions
