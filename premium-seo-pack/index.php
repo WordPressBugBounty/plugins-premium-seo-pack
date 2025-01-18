@@ -1,6 +1,6 @@
 <?php
 /*
-  Copyright (c) 2013 - 2024, Squirrly.
+  Copyright (c) 2013-2025, Squirrly.
   License: GPL2+
   The copyrights to the software code in this file are licensed under the (revised) BSD open source license.
 

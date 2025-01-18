@@ -2,7 +2,7 @@
 Contributors: calinvingan
 Tags: seo plugin,woocommerce seo,meta,google,google sitemaps
 Requires at least: 4.6
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.6.002
 Donate link: https://plugin.squirrly.co
 Requires PHP: 7.0
