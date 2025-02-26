@@ -11,15 +11,16 @@ License: GPLv2 or later
 Premium SEO Pack is a WordPress SEO Plugin and helps you increase the SEO value for all your pages, decide how you want them to look like on search engine results, and let's not forget about social media.
 
 == Description ==
-Premium SEO Pack is a WordPress SEO Plugin and helps you increase the SEO value for all your pages, decide how you want them to look like on search engine results, and let’s not forget about social media.
 
-We all like being in control, especially when it comes to our website.
+**Important Notice: Premium SEO Pack will become inactive on the 20th of March 2025.**
 
-Now, Premium SEO Pack gives you the control you’ve wanted all along. You can now increase the WordPress SEO value for all your pages, decide how you want them to look like on search engine results, and let’s not forget about social media.
+It's our great joy at AISQ, the company behind Squirrly SEO, WP Ghost, Starbox, Rank My WP, Premium SEO Pack and Website Analysis Plugin https://aisq.com/ai-leadership/ to keep testing and innovating, so we can give users of the world's most popular CMS: WordPress, the best possible tools.
 
-The plugin is FREE and has all the main On-page SEO options.
+Premium SEO Pack has been a test ran since 2017 to see if a smaller version of the HUGE package of SEO tools inside Squirrly SEO could be given to the public. Over 7,000 users are still active and read our emails at Premium SEO Pack.
 
-Please translate it in your language: <a href="https://translate.WordPress.org/projects/wp-plugins/premium-seo-pack" >Translate Premium SEO Pack</a>
+However, over many years, we've seen that most users still prefer to get the entire suite of SEO tools built inside Squirrly SEO.
+
+Therefore, what we have inside Squirrly SEO is a much better fit for most of our users, which means there's no point to trying to work on multiple codebases, plugins and web apps. Premium SEO Pack will be closed and we invite everyone to switch to Squirrly SEO moving forward.
 
 > Features:
 >
